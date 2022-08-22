@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "scorecard-token-executor",
+    "name": "scorecard-token",
+    "region": "us-east-1"
+  }
+}
